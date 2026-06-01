@@ -88,10 +88,6 @@ The goal of this dashboard is to provide a clear, professional view of ER perfor
 - `Hospital-Emergency-Room-Dashboard.pdf` — Dashboard preview/report
 - Supporting images and project assets
 
-## Screenshots
-
-Add dashboard screenshots here to make the repository easier to review.
-
 ## Notes
 
 This project was created as part of my data analysis and dashboarding practice, using **Power BI only** for this specific dashboard.
